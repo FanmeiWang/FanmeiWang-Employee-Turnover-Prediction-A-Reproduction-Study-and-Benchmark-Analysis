@@ -1,0 +1,2 @@
+# FanmeiWang-Employee-Turnover-Prediction-A-Reproduction-Study-and-Benchmark-Analysis
+This project reproduces experiments from the paper Predicting Employee Turnover: Scoping and Benchmarking the State-of-the-Art by De Vos et al. (2024). The study evaluates the performance of various classification models on employee turnover prediction, focusing on the IBM dataset and the Logistic Regression (LR) model in this reproduction.
