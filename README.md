@@ -7,8 +7,6 @@
   - Adapted and configured main.py for running experiments, including dataset selection, hyperparameter tuning, and model-specific settings.
   - Executed experiments and generated evaluation metrics to validate the paper's findings.
   - Set up the experimental environment by installing dependencies using the provided requirements.txt and ensuring compatibility with Python 3.12.7.
-  - Documented reproduction steps in the Readme.md file.
-  - Structured and prepared the final project report: Part 1 (the whole background), Part 2 (reproduction part), Part 3 (reproduction part), and References parts.
 
 ## Overview
 This project reproduces experiments from the paper *Predicting Employee Turnover: Scoping and Benchmarking the State-of-the-Art* by De Vos et al. (2024). The study evaluates the performance of various classification models on employee turnover prediction, focusing on the IBM dataset and the Logistic Regression (LR) model in this reproduction.
